@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\components\\statspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\statspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\components\\todoform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\todoform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.server\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|solutionrelative:webapi.server\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|solutionrelative:webapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.server\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|solutionrelative:webapi.server\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|solutionrelative:webapi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todos.cs",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Models\\Todos.cs",
+              "RelativeDocumentMoniker": "WebAPI.Server\\Models\\Todos.cs",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Models\\Todos.cs",
+              "RelativeToolTip": "WebAPI.Server\\Models\\Todos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:18:52.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoForm.jsx",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoForm.jsx",
+              "RelativeDocumentMoniker": "webapi.client\\src\\components\\TodoForm.jsx",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoForm.jsx",
+              "RelativeToolTip": "webapi.client\\src\\components\\TodoForm.jsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-31T07:00:41.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoList.jsx",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoList.jsx",
+              "RelativeDocumentMoniker": "webapi.client\\src\\components\\TodoList.jsx",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoList.jsx",
+              "RelativeToolTip": "webapi.client\\src\\components\\TodoList.jsx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-31T02:18:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "webapi.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\App.jsx",
+              "RelativeToolTip": "webapi.client\\src\\App.jsx",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-31T06:36:12.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatsPage.jsx",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\StatsPage.jsx",
+              "RelativeDocumentMoniker": "webapi.client\\src\\components\\StatsPage.jsx",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\StatsPage.jsx",
+              "RelativeToolTip": "webapi.client\\src\\components\\StatsPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-31T06:42:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Program.cs",
+              "RelativeToolTip": "WebAPI.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:52:41.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "WebAPI.Server\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "WebAPI.Server\\Controllers\\TodosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:09:04.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\appsettings.json",
+              "RelativeToolTip": "WebAPI.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T02:01:45.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
