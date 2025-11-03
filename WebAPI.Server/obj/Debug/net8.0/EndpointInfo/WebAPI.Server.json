@@ -281,6 +281,11 @@
           "createdAt": {
             "type": "string",
             "format": "date-time"
+          },
+          "deadline": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
           }
         },
         "additionalProperties": false

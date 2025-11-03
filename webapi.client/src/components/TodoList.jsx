@@ -68,6 +68,15 @@ export default function TodoList() {
                             <Link to={`/edit/${t.id}`} style={{ marginRight: 8 }}>Edit</Link>
                             <button onClick={() => del(t.id)}>Delete</button>
                         </div>
+                        <div style={{ fontSize: 12, color: '#666', marginTop: 4 }}>
+                            Created at: {formatDate(t.createdAt)}
+                            {t.deadline && (
+                                <div style={{ color: new Date(t.deadline) < new Date() ? 'red' : '#666' }}>
+                                    Deadline: {formatDate(t.deadline)}
+                                </div>
+                            )}
+                        </div>
+
                     </li>
                 ))}
             </ul>

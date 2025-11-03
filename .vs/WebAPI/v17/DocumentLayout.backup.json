@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\statspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\components\\todoform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\todoform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.server\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{716B951D-7D12-4B89-B3DE-8AAA55BEF909}|WebAPI.Server\\WebAPI.Server.csproj|solutionrelative:webapi.server\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|solutionrelative:webapi.client\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{418059FF-DF67-A7AB-66A2-7F3A79A5D9A4}|webapi.client\\webapi.client.esproj|c:\\users\\ghazy-ammar.farras\\source\\repos\\webapi\\webapi.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -46,42 +46,39 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Todos.cs",
               "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Models\\Todos.cs",
               "RelativeDocumentMoniker": "WebAPI.Server\\Models\\Todos.cs",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Models\\Todos.cs",
               "RelativeToolTip": "WebAPI.Server\\Models\\Todos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:18:52.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T07:18:52.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TodoForm.jsx",
               "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoForm.jsx",
               "RelativeDocumentMoniker": "webapi.client\\src\\components\\TodoForm.jsx",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoForm.jsx",
               "RelativeToolTip": "webapi.client\\src\\components\\TodoForm.jsx",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-10-31T07:00:41.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T07:00:41.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TodoList.jsx",
               "DocumentMoniker": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoList.jsx",
               "RelativeDocumentMoniker": "webapi.client\\src\\components\\TodoList.jsx",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\TodoList.jsx",
               "RelativeToolTip": "webapi.client\\src\\components\\TodoList.jsx",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDgAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwD8AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-10-31T02:18:23.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T02:18:23.51Z"
             },
             {
               "$type": "Document",
@@ -91,10 +88,9 @@
               "RelativeDocumentMoniker": "webapi.client\\src\\App.jsx",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\App.jsx",
               "RelativeToolTip": "webapi.client\\src\\App.jsx",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-10-31T06:36:12.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T06:36:12.354Z"
             },
             {
               "$type": "Document",
@@ -104,7 +100,7 @@
               "RelativeDocumentMoniker": "webapi.client\\src\\components\\StatsPage.jsx",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\webapi.client\\src\\components\\StatsPage.jsx",
               "RelativeToolTip": "webapi.client\\src\\components\\StatsPage.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-10-31T06:42:20.97Z",
               "EditorCaption": ""
@@ -117,10 +113,9 @@
               "RelativeDocumentMoniker": "WebAPI.Server\\Program.cs",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Program.cs",
               "RelativeToolTip": "WebAPI.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T03:52:41.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T03:52:41.66Z"
             },
             {
               "$type": "Document",
@@ -130,10 +125,9 @@
               "RelativeDocumentMoniker": "WebAPI.Server\\Controllers\\TodosController.cs",
               "ToolTip": "C:\\Users\\ghazy-ammar.farras\\source\\repos\\WebAPI\\WebAPI.Server\\Controllers\\TodosController.cs",
               "RelativeToolTip": "WebAPI.Server\\Controllers\\TodosController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowD4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T02:09:04.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T02:09:04.237Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "WebAPI.Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T02:01:45.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T02:01:45.68Z"
             }
           ]
         }
